@@ -1,23 +1,22 @@
 ---
 layout: post
 title:      "javascript rails blog"
-date:       2020-07-01 06:15:31 +0000
+date:       2020-07-01 02:15:32 -0400
 permalink:  javascript_rails_blog
 ---
 
 
 Just finished up the Javascript Rails Flat Iron Project. This has been the toughest challenge so far but also very enjoyable. 
 
-From someone who has completed their project I would say to really take the time to practice with fetch requests before
+I actually started out my project as a game using HTML CANVAS. after many long hours learning how to work with Canvas 
+I realized it just was not working for me when it came to what I wanted to accomplish and the project requirements. I would say weeks wasted but in the scheme of things I learned a lot about something I may not have even if it wasnt applying to my project. 
 
-diving in and again make sure you really take the time to plan out each step of your project before you dive in. 
+After dabbling in games I landed on the idea of trying out a Quiz. I felt it would lend to the project much better .. and It did! 
 
-My project which I ended up changing about half a million times after running into issues ended up being a game similar to
+I created a silly, fun quiz to identify your spirit animal and although it may seem light simple and goofy I feel that this project has built my skill set the most and challenged me the most out of anything I have tackled on this new coding journey so far. 
 
-frogger or pacman where a user had to move their game piece across the screen to collect items before colliding with an 
+I learned a lot about fetch Get and Post requests.. building a rails API and working with javascript functions. 
 
-evil villan. The game did not turn up to be everything I wanted but Im happy with the outcome and everything I learned in 
+From someone who has completed their project I would say to really take the time to practice with fetch requests before diving in also read back over scope and sequence and again make sure you really take the time to plan out each step of your project before writing a line of code. It will be stressful but you will make it through!
 
-the process. Probably one of the hardest parts for me like I said was getting the fetch requests running smoothly. But once
 
-that was in place in was exiting seeing all the doors open for what you could accomplish with this new set of skills. Im Looking forward to what project 4 has in store. 
